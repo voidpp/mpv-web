@@ -22,9 +22,9 @@ Scheme
                                                +---+---------+
 ```
 
-MPV HTTP Router: https://github.com/voidpp/mpv-http-router
-MPV Web: https://github.com/voidpp/mpv-web
-MPVRemote: https://github.com/voidpp/MPVRemote
+* MPV HTTP Router: https://github.com/voidpp/mpv-http-router
+* MPV Web: https://github.com/voidpp/mpv-web
+* MPVRemote: https://github.com/voidpp/MPVRemote
 
 Development
 -----------
